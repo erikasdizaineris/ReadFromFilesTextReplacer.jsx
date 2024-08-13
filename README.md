@@ -10,6 +10,7 @@ Create two text files each for different value, one is for searchable text anoth
 Values in text files must be in a collumn
 Run the script inside Illustrator and choose the first file (searchable), then the next one (target text)
 The script runs in all open documents one by one and replaces all the text that matches file A value to file B value
+For your covenience all the changed values will appear in green
 It uses standard CMYK Green swatch, so make it is loaded before proceeding
 
 Have fun!
